@@ -14,7 +14,7 @@
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="React" src="https://img.shields.io/badge/React-101414?style=for-the-badge&logo=react&logoColor=0ffafa">
     <img align="center" alt="React-Native" src="https://img.shields.io/badge/React_Native-101414?style=for-the-badge&logo=react&logoColor=0ffafa">
-    <img align="center" alt="Express" src="https://img.shields.io/badge/express.js-15d451.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+    <img align="center" alt="Express" src="https://img.shields.io/badge/express.js-12a35b.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     <img align="center" alt="Axios" src="https://img.shields.io/badge/axios-ffffff.svg?style=for-the-badge&logo=axios&logoColor=8431d6">
     <img align="center" alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img align="center" alt="Prisma" src ="https://img.shields.io/badge/pisma-0e0b4d.svg?style=for-the-badge&logo=prisma&logoColor=white"/>
