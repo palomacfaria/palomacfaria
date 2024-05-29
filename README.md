@@ -18,9 +18,10 @@
     <br/>
     <img align="center" alt="Axios" src="https://img.shields.io/badge/axios-ffffff.svg?style=for-the-badge&logo=axios&logoColor=8431d6">
     <img align="center" alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img align="center" alt="Prisma" src ="https://img.shields.io/badge/pisma-0e0b4d.svg?style=for-the-badge&logo=prisma&logoColor=white"/>
+    <img align="center" alt="Prisma" src ="https://img.shields.io/badge/prisma-0e0b4d.svg?style=for-the-badge&logo=prisma&logoColor=white"/>
     <img align="center" alt="Python" src ="https://img.shields.io/badge/python-2a67d1.svg?style=for-the-badge&logo=python&logoColor=f5e720"/>
 </div><br/>
 
 ### E-mail para contato
 palomacfaria@outlook.com
+
